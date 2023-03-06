@@ -48,4 +48,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 https://boiling-oasis-89765.herokuapp.com/
 
 ## Screenshots of the application
+
+![](https://github.com/WinnieThomas/Book-search-engine/blob/main/assets/booksearch2.png?raw=true)
 ![](https://github.com/WinnieThomas/Book-search-engine/blob/main/assets/booksearch1.png?raw=true)
