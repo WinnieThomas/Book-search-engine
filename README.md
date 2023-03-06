@@ -45,4 +45,4 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Deployed heroku link
-![Deployed Link](https://boiling-oasis-89765.herokuapp.com/)
+https://boiling-oasis-89765.herokuapp.com/
